@@ -1140,6 +1140,7 @@ button {
     width: 80%;
     top: 20%;
     right: 10%;
+    object-fit: none;
 }
     .-slide-two-text-:nth-child(3n) {
         position: absolute;

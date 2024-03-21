@@ -1070,7 +1070,7 @@ button {
     {
         width: 100%;
         opacity: 0.5;
-        transform: scale(0.9);
+    object-fit: fill;
     }
     .-slider-text- {
         position: absolute;
@@ -1140,7 +1140,6 @@ button {
     width: 80%;
     top: 20%;
     right: 10%;
-    object-fit: none;
 }
     .-slide-two-text-:nth-child(3n) {
         position: absolute;
